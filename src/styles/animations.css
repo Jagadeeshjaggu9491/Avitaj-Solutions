@@ -1,0 +1,69 @@
+/* Subtle Enterprise Motion & Accessibility Preferences */
+
+@keyframes floatSubtle {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+@keyframes whatsappBreathe {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.52), 0 10px 24px -4px rgba(37, 211, 102, 0.42);
+  }
+  50% {
+    transform: scale(1.045);
+    box-shadow: 0 0 0 10px rgba(37, 211, 102, 0), 0 14px 28px -4px rgba(37, 211, 102, 0.5);
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(37, 211, 102, 0), 0 10px 24px -4px rgba(37, 211, 102, 0.42);
+  }
+}
+
+@keyframes preloaderSlide {
+  0% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+
+.hero-float-badge {
+  animation: floatSubtle 5s ease-in-out infinite;
+}
+
+.whatsapp-breathe {
+  animation: whatsappBreathe 2.6s ease-in-out infinite;
+}
+
+.preloader-progress-bar {
+  animation: preloaderSlide 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .hero-float-badge,
+  .whatsapp-breathe,
+  .preloader-progress-bar,
+  .services-megamenu-panel {
+    animation: none !important;
+  }
+  .avitaj-card,
+  .blog-card,
+  .btn-avitaj-primary,
+  .btn-avitaj-secondary,
+  .btn-scroll-top,
+  .btn-whatsapp-float,
+  .whatsapp-hover-label,
+  .footer-social-link,
+  .nav-link-item::after {
+    transition: none !important;
+  }
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 52" fill="none" role="img" aria-label="AVITAJ SOLUTIONS Logo">
+  <defs>
+    <linearGradient id="avitajGradWhite" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3979C7" />
+      <stop offset="100%" stop-color="#50B5E5" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="4" width="44" height="44" rx="11" fill="url(#avitajGradWhite)" />
+  <path d="M24 12L35 37H29.4L27.1 31.4H20.9L18.6 37H13L24 12ZM24 20.4L22.1 26.8H25.9L24 20.4Z" fill="#FFFFFF" />
+  <circle cx="35.5" cy="14.5" r="3" fill="#FFFFFF" />
+  <text x="58" y="27" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="20" letter-spacing="0.04em">AVITAJ</text>
+  <text x="59" y="42" fill="#78D1FF" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="11.5" letter-spacing="0.22em">SOLUTIONS</text>
+</svg>

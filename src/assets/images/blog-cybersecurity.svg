@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none" role="img" aria-label="Zero-Trust Cybersecurity Architecture">
+  <rect width="640" height="400" rx="16" fill="#E8F2FB" />
+  <rect x="56" y="48" width="528" height="304" rx="16" fill="#FFFFFF" stroke="#E2EBF5" stroke-width="1.5" />
+  <circle cx="320" cy="180" r="88" fill="#F2F7FC" stroke="#D2E4FF" stroke-width="2" />
+  <circle cx="320" cy="180" r="62" fill="#E8F2FB" stroke="#50B5E5" stroke-width="2" stroke-dasharray="6 6" />
+  <path d="M320 132L360 148V182C360 207.5 343 230.2 320 237C297 230.2 280 207.5 280 182V148L320 132Z" fill="#203F5F" />
+  <path d="M306 182L316 192L336 170" stroke="#50B5E5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <rect x="130" y="294" width="380" height="24" rx="6" fill="#F2F7FC" />
+  <rect x="150" y="302" width="120" height="8" rx="4" fill="#3979C7" />
+  <rect x="286" y="302" width="90" height="8" rx="4" fill="#50B5E5" />
+  <rect x="392" y="302" width="98" height="8" rx="4" fill="#203F5F" />
+</svg>

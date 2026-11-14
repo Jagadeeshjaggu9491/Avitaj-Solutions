@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none" role="img" aria-label="Enterprise Data Center and Structured Cabling">
+  <rect width="640" height="400" rx="16" fill="#F2F7FC" />
+  <rect x="64" y="48" width="512" height="304" rx="16" fill="#203F5F" />
+  <rect x="100" y="84" width="132" height="232" rx="10" fill="#142C45" stroke="#3979C7" stroke-width="1.5" />
+  <rect x="254" y="84" width="132" height="232" rx="10" fill="#142C45" stroke="#50B5E5" stroke-width="1.5" />
+  <rect x="408" y="84" width="132" height="232" rx="10" fill="#142C45" stroke="#3979C7" stroke-width="1.5" />
+  <g fill="#50B5E5">
+    <rect x="120" y="110" width="92" height="14" rx="3" opacity="0.9" />
+    <rect x="120" y="140" width="92" height="14" rx="3" opacity="0.6" />
+    <rect x="120" y="170" width="92" height="14" rx="3" opacity="0.9" />
+    <rect x="274" y="110" width="92" height="14" rx="3" opacity="0.9" />
+    <rect x="274" y="140" width="92" height="14" rx="3" opacity="0.9" />
+    <rect x="274" y="170" width="92" height="14" rx="3" opacity="0.6" />
+    <rect x="428" y="110" width="92" height="14" rx="3" opacity="0.6" />
+    <rect x="428" y="140" width="92" height="14" rx="3" opacity="0.9" />
+    <rect x="428" y="170" width="92" height="14" rx="3" opacity="0.9" />
+  </g>
+  <path d="M166 240V276H474V240" stroke="#78D1FF" stroke-width="3" stroke-linecap="round" />
+  <circle cx="320" cy="276" r="8" fill="#50B5E5" />
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none" role="img" aria-label="Digital Growth and Search Performance Analytics">
+  <rect width="640" height="400" rx="16" fill="#E8F2FB" />
+  <rect x="56" y="48" width="528" height="304" rx="16" fill="#FFFFFF" stroke="#E2EBF5" stroke-width="1.5" />
+  <path d="M104 276L184 226L264 244L356 164L438 182L532 104" stroke="#3979C7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M104 276L184 226L264 244L356 164L438 182L532 104V308H104V276Z" fill="#50B5E5" fill-opacity="0.16" />
+  <circle cx="184" cy="226" r="7" fill="#203F5F" />
+  <circle cx="356" cy="164" r="7" fill="#3979C7" />
+  <circle cx="532" cy="104" r="9" fill="#50B5E5" stroke="#203F5F" stroke-width="3" />
+  <rect x="104" y="88" width="160" height="36" rx="8" fill="#F2F7FC" />
+  <text x="122" y="111" fill="#203F5F" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="700">Organic Growth +164%</text>
+</svg>

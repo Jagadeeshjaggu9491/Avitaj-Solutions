@@ -1,0 +1,215 @@
+---
+name: Avitaj Corporate Systems
+colors:
+  surface: '#f8f9ff'
+  surface-dim: '#c8dbfa'
+  surface-bright: '#f8f9ff'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#eff4ff'
+  surface-container: '#e5eeff'
+  surface-container-high: '#dce9ff'
+  surface-container-highest: '#d2e4ff'
+  on-surface: '#061c33'
+  on-surface-variant: '#43474e'
+  inverse-surface: '#1e3149'
+  inverse-on-surface: '#eaf1ff'
+  outline: '#73777e'
+  outline-variant: '#c3c6ce'
+  surface-tint: '#436082'
+  primary: '#032948'
+  on-primary: '#ffffff'
+  primary-container: '#203f5f'
+  on-primary-container: '#8dabd0'
+  inverse-primary: '#abc9f0'
+  secondary: '#115fab'
+  on-secondary: '#ffffff'
+  secondary-container: '#72adff'
+  on-secondary-container: '#004079'
+  tertiary: '#002b3c'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#00425a'
+  on-tertiary-container: '#4db2e2'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#d1e4ff'
+  primary-fixed-dim: '#abc9f0'
+  on-primary-fixed: '#001d36'
+  on-primary-fixed-variant: '#2a4969'
+  secondary-fixed: '#d4e3ff'
+  secondary-fixed-dim: '#a6c8ff'
+  on-secondary-fixed: '#001c3a'
+  on-secondary-fixed-variant: '#004786'
+  tertiary-fixed: '#c3e8ff'
+  tertiary-fixed-dim: '#78d1ff'
+  on-tertiary-fixed: '#001e2c'
+  on-tertiary-fixed-variant: '#004d68'
+  background: '#f8f9ff'
+  on-background: '#061c33'
+  surface-variant: '#d2e4ff'
+  background-base: '#FFFFFF'
+  surface-subtle: '#F2F7FC'
+  surface-soft: '#E8F2FB'
+  text-primary: '#172B42'
+  text-secondary: '#66788A'
+  border-card: '#E2EBF5'
+  accent-coral: '#FA445B'
+typography:
+  display-hero:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 56px
+    fontWeight: '700'
+    lineHeight: 64px
+    letterSpacing: -0.02em
+  display-hero-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-xl:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 40px
+    fontWeight: '700'
+    lineHeight: 48px
+    letterSpacing: -0.015em
+  headline-xl-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 28px
+    fontWeight: '700'
+    lineHeight: 36px
+    letterSpacing: -0.015em
+  headline-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 32px
+    fontWeight: '600'
+    lineHeight: 40px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.005em
+  headline-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+  body-lg:
+    fontFamily: Inter
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+  body-md:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 26px
+  body-sm:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 22px
+  label-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 24px
+    letterSpacing: 0.01em
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.02em
+  label-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '700'
+    lineHeight: 16px
+    letterSpacing: 0.05em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 3rem
+  margin-mobile: 1.25rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+  space-2xl: 4rem
+---
+
+## Brand & Style
+The design system reflects a premium, world-class enterprise technology consultancy. It bridges corporate reliability with modern digital agility, projecting deep technical expertise, institutional trust, and forward-looking innovation.
+
+The aesthetic fuses modern corporate precision with high-end digital agency polish: expansive whitespace, deliberate typographic hierarchy, atmospheric cool-tinted surfaces, and sharp, structural micro-interactions. The visual environment avoids unnecessary decorative noise, letting content density, precise grid alignments, and refined surface layers evoke authority and scale.
+
+## Colors
+The palette balances authoritative deep navy with luminous technological blues:
+- **Primary Navy (`#203F5F`)**: Applied to high-emphasis interactive states, brand marks, and prominent anchor headers.
+- **Royal Blue (`#3979C7`)**: Functions as the primary interactive driver, active status indicators, and vibrant focus rings.
+- **Sky Blue (`#50B5E5`)**: Utilized strategically for technological highlights, micro-badges, and visual data accents.
+- **Neutral & Typography Layers**: Text defaults to deep midnight (`#172B42`) for WCAG AAA compliance on light surfaces, while secondary messaging utilizes slate gray (`#66788A`).
+- **Surface Foundations**: Base surfaces remain clean white (`#FFFFFF`), while tiered containers leverage pale ice tints (`#F2F7FC` and `#E8F2FB`) to subtly delineate sections without heavy division lines.
+
+## Typography
+Typographic rhythm combines geometric, humanized structural headers (**Plus Jakarta Sans**) with systematic, neutral readability (**Inter**) for data and body copy.
+
+- **Headlines**: Set tightly with negative letter-spacing for large display contexts to preserve visual punch and avoid ragged silhouettes.
+- **Labels & Action Anchors**: Capitalize on Plus Jakarta Sans' sturdy geometric x-height to maintain legibility at 12px-14px sizes in interactive buttons, metadata tags, and metric indicators.
+- **Body Copy**: Standard line height is set generously (1.6x) in Inter to support sustained technical reading across case studies, solution briefs, and data sheets.
+
+## Layout & Spacing
+The layout follows a fluid-responsive 12-column grid constrained to an expansive 1280px max-width container for desktop presentations, stepping down to 8 columns on tablet devices and 4 columns on mobile viewports.
+
+- **Vertical Rhythm**: Large section divisions leverage `space-2xl` (64px) to create breathable air between solution pillars, client proofs, and value propositions.
+- **Micro-alignment**: Internal container padding enforces consistent horizontal baselines. Card grids enforce an equal-height flexbox or grid matrix with uniform `space-lg` (24px) gutters.
+- **Reflow Logic**: On screens narrower than 768px, multi-column card groups break gracefully into single-column vertical stacks with `space-md` gaps.
+
+## Elevation & Depth
+Depth is expressed through subtle tonal shifts and luminous ambient shadows rather than heavy structural drop shadows:
+
+- **Level 0 (Flat / Inset)**: Base white background (`#FFFFFF`) or tinted canvas (`#F2F7FC`).
+- **Level 1 (Card & Module Default)**: Crisp 1px solid perimeter outline in `#E2EBF5`, paired with an ultra-soft blue-tinted drop shadow: `0 4px 16px -2px rgba(32, 63, 95, 0.04), 0 2px 6px -1px rgba(32, 63, 95, 0.02)`.
+- **Level 2 (Hover / Active Focus)**: Subtle vertical lift (-3px translate), border shifts to `#3979C7` at 40% opacity, and shadow blooms to `0 12px 30px -4px rgba(32, 63, 95, 0.08), 0 4px 10px -2px rgba(32, 63, 95, 0.03)`.
+- **Level 3 (Overlays & Flyouts)**: Navigation panels, modals, and tooltips cast `0 20px 40px -8px rgba(23, 43, 66, 0.12)`.
+
+## Shapes
+A unified rounded aesthetic is applied across containers and interactive components:
+- Standard structural cards, dashboards, and media wrappers implement a disciplined 14px to 16px corner radius (`rounded-lg`), softening the corporate landscape while preserving architectural order.
+- Action items (buttons, search inputs, dropdowns) use matching rounded edges (8px to 12px) to communicate clean ergonomics.
+- Badges and micro-status tags adopt continuous full-radius pill styling.
+
+## Components
+
+### Buttons
+- **Primary**: Solid `#203F5F` fill, pure white text, 48px to 54px height, 10px corner radius, horizontal padding 28px. Subtle gradient highlight overlay on hover (`#3979C7`).
+- **Secondary**: Transparent background with a 1.5px solid `#3979C7` outline, `#203F5F` text, shifting to `#F2F7FC` background fill on hover.
+- **Tertiary / Ghost**: Zero outline, `#3979C7` text with an animated 2px underline transition on hover.
+
+### Cards
+- Constructed with `#FFFFFF` background, 1px solid `#E2EBF5` border, and 16px corner radius.
+- Padding sits at 32px (`space-xl`) desktop, 20px mobile. Hover interactions include slight elevation blooming and seamless icon color transitions from `#203F5F` to `#3979C7`.
+
+### Input Fields & Controls
+- Form controls maintain a generous 48px height with 1px solid `#E2EBF5` borders, smooth 8px radius, and `#172B42` text.
+- Focus states invoke a crisp `0 0 0 3px rgba(57, 121, 199, 0.20)` ring and transition the border color to `#3979C7`.
+- Checkboxes and radio buttons employ a custom 20px structural square/circle with `#3979C7` solid fill when checked, accompanied by high-contrast white glyph marks.
+
+### Chips & Badges
+- Pill-shaped with 4px vertical by 12px horizontal padding.
+- Light tint variations use `#E8F2FB` background with `#203F5F` or `#3979C7` typography for solution categories, cloud competencies, and metadata filters.
+
+### Enterprise Solution Metric Display
+- Dedicated corporate KPI containers with huge numerical anchors (`headline-xl` in `#203F5F`) paired with clean `#66788A` secondary descriptions and a 3px vertical accent bar in `#50B5E5`.

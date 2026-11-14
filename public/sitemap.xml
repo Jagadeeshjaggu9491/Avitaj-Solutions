@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://avitajsolutions.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://avitajsolutions.com/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://avitajsolutions.com/services</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://avitajsolutions.com/careers</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://avitajsolutions.com/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://avitajsolutions.com/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- IT Support Services -->
+  <url><loc>https://avitajsolutions.com/services/break-fix-support</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/managed-it-services</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/network-security</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/cybersecurity</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/structured-cabling</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/cisco-support</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/data-center-support</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/end-user-support</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/outsourced-it-resources</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/remote-it-support</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/it-rollouts</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/it-stock-storage</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/service-desk-support</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/it-asset-disposition</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/it-data-center-hardware-solutions</loc><priority>0.8</priority></url>
+
+  <!-- Digital Marketing Services -->
+  <url><loc>https://avitajsolutions.com/services/search-engine-optimization</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/website-development</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/website-maintenance</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/content-services</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/social-media-management</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/e-commerce-solutions</loc><priority>0.8</priority></url>
+  <url><loc>https://avitajsolutions.com/services/digital-consulting</loc><priority>0.8</priority></url>
+
+  <!-- Blog Insights -->
+  <url><loc>https://avitajsolutions.com/blog/zero-trust-network-architecture-for-distributed-enterprises</loc><priority>0.7</priority></url>
+  <url><loc>https://avitajsolutions.com/blog/structured-cabling-and-data-center-readiness-checklist</loc><priority>0.7</priority></url>
+  <url><loc>https://avitajsolutions.com/blog/technical-seo-and-core-web-vitals-for-b2b-growth</loc><priority>0.7</priority></url>
+  <url><loc>https://avitajsolutions.com/blog/nist-800-88-compliant-itad-and-hardware-lifecycle</loc><priority>0.7</priority></url>
+</urlset>
